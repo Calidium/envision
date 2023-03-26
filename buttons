@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My CSS Buttons</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>My CSS Buttons</h1>
+    <button class="primary-button">Click me!</button>
+    <button class="secondary-button">Click me!</button>
+  </body>
+</html>
